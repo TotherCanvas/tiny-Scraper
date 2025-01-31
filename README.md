@@ -1,4 +1,4 @@
-# Simple Web Scraper with XPath
+# Simple Web Scraper with CSS Selectors
 
 This is a very simple Python-based web scraper I created for fun to extract the title from any web page using CSS selectors.
 
